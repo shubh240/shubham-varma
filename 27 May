@@ -1,0 +1,60 @@
+58 lines (30 sloc)  1.11 KB
+  
+Note : Take all values from the user.
+Calculate average of 5 numbers.
+
+Check whether number is even or odd.
+
+Take a year and check whether it is leap year or not
+
+Take a number and check whether it is zero, positive or negative.
+
+Take 2 numbers and display greatest number. (Also check equal number condition)
+
+Take a number and find factorial of that number.
+
+Write a program to swap 2 numbers using third variable.
+
+Take 2 numbers and find smallest number.
+
+Take a number check if a number is less than 100 or not. If it is less than 100 then check if it is odd or even.
+
+Take a number to print the square of a number if it is less than 10.
+
+Take a number and check whether it is zero, positive or negative using nested IF…ELSE statement .
+
+Take 3 numbers and find greatest number using nested IF….ELSE statement.
+
+Take 3 numbers and find smallest number using logical operator.
+
+Write a program to swap 2 numbers without taking third variable.
+
+Take starting number and ending number from the user and print following series.
+
+Output :-
+
+Enter starting number : 30
+
+Enter ending number : 0
+
+30
+
+27
+
+24
+
+21
+
+18
+
+15
+
+12
+
+9
+
+6
+
+3
+
+0
