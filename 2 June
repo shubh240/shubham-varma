@@ -1,0 +1,16 @@
+15 lines (12 sloc)  348 Bytes
+from django.shortcuts import render
+from django.http import HttpResponse
+# Create your views here.
+
+def hello (request) :
+    return HttpResponse("<h1>Hello WORLD!</h1>")
+    from django.test import TestCase
+
+# Create your tests here.
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.hello, name='helloworld')
+]
